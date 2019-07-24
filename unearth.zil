@@ -593,7 +593,7 @@ now, the hot breath of our vengeance blows hard upon this little world...\"|
 		       <RESTORE-INPUT ,FIRST-BUFFER>
 		       <TELL "'.\"|
   \"Yes, there's no need to keep repeating it,\" growls the Vl'Hurg.|
-  \"One happy thought,\" adds the G'Gugvunt. \"After millenia of bloody
+  \"One happy thought,\" adds the G'Gugvunt. \"After millennia of bloody
 and perpetual conflict, our races have been brought together by this
 Quest for the Source of the Offending Remark. Perhaps, after our vengeance
 has been exacted on him who said '">
